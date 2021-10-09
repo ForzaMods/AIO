@@ -1,6 +1,9 @@
-AIO
-Download and features
-
+<p align="center">
+  <img width="200" height="200" src="https://cdn.discordapp.com/attachments/788949255749500958/896513980368035870/pogness.png">
+</p>
+<p align="center">
+  AIO Download and features
+</p>
 
 [Forza Mods AIO]() is a free Forza Horizon 4 mod tool that aims to bring cool, new and unique features, all at NO cost!
 
@@ -8,7 +11,6 @@ Download and features
 
 ## Table of content
 
-- [Downloads](https://snaptrap.io/downloads.html)
 - [Features](#features)
     - [Autoshow](#autoshow)
     - [Stats Editing](#stats)
@@ -41,13 +43,12 @@ No longer will you have to worry about finding id's and swapping them, or even g
 
 ### Stats
 
-This tool also allows you to tweak in game stats, such as hidden settings, controller preferences, and values for your stat page.
+This tool also allows you to tweak in game stats, such as hidden settings, controller preferences, and values for your stat page.   
 It isn't perfect however so you can't currently expect all of the stats show to either 1. Be the right value, or 2. Stick once you change it.
 
 ### SaveSwapping
 
-No longer do you have to get scammed by people SeLlInG mOdDeD aCcOuNtS or even faff about by going through your game directories
-This lets you backup your saves and swap them with saves made by the lovely people in our discord (the same ones these scammers use, they steal them from us)
+No longer do you have to get scammed by people SeLlInG mOdDeD aCcOuNtS or even faff about by going through your game directories. This lets you backup your saves and swap them with saves made by the lovely people in our discord (the same ones these scammers use, they steal them from us)
 
 ### Tuning
 
