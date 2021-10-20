@@ -74,7 +74,7 @@ This is where most of the gameplay changing mods are, these include:
 ## ToDo
 
 - Transparent UI
-- ✔️[Custom World Shading](https://streamable.com/78v218)
+- ✔️[Custom World Shading](https://streamable.com/l2ftux)
 - Coords file for TP list
 - Bug fixes if needed
 
