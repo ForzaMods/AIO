@@ -5,7 +5,7 @@
   AIO Download and features
 </p>
 
-[Forza Mods AIO](https://github.com/Yeethan69/AIO/releases/) is a free Forza Horizon 4 mod tool that aims to bring cool, new and unique features, all at NO cost!
+[Forza Mods AIO](https://github.com/Yeethan69/AIO/releases/) is a free Forza Horizon 4, and now Forza Horzion 5 mod tool that aims to bring cool, new and unique features, all at NO cost!
 
 <img align="right" src="https://i.imgur.com/NgbwjVb.png" height="4%">
 
@@ -23,6 +23,7 @@
 ## Features
 
 The Forza Mods Tool is packed full of features:
+(For FH5 and Steam, only garage/autoshow tab will work)
 
 ### Autoshow
 
