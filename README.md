@@ -23,7 +23,8 @@
 ## Features
 
 The Forza Mods Tool is packed full of features:
-(For FH5 and Steam, only garage/autoshow tab will work)
+
+(For Steam, only garage/autoshow tab will work)
 
 ### Autoshow
 
