@@ -24,7 +24,7 @@
 
 The Forza Mods Tool is packed full of features:
 
-(For Steam, only garage/autoshow tab will work)
+(For Steam, only garage/autoshow and stat editor tab will work)
 
 ### Autoshow
 
@@ -62,6 +62,7 @@ It also allows you to change the values to outside what can normally be set, e.g
 This is where most of the gameplay changing mods are, these include:
 * Wheelspeed Speed Hack and Turn Assist - As seen in my UnknownCheats post
 * Velocity Speed Hack - The more ridiculous kind of speed hack
+* Jump hack - Fly and shit
 * No Clip - Both wall, and car
 * Gravity and (weird) Acceleration Hack - Go flying, or stick to the ground
 * Super Brake - Instantly stop
