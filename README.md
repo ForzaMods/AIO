@@ -41,7 +41,7 @@ No longer will you have to worry about finding id's and swapping them, or even g
 * Fix Thumbnails - Fixes thumbs
 * Unlock Hidden Presets - Unlocks hidden Upgrade Presets
 * Clear Garage - PERMENANTLY deletes all cars from your garage
-* Add all cars - Literally gives you all un-owned released cars in the game in one click
+* [Add all cars](https://streamable.com/li2379) - Literally gives you all un-owned released cars in the game in one click
 
 
 ### Stats
