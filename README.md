@@ -1,6 +1,5 @@
 <p align="center">
   <img width="200" height="200" src="https://cdn.discordapp.com/attachments/788949255749500958/896513980368035870/pogness.png">
-  ![Discord Banner 2](https://discordapp.com/api/guilds/457063425005191168/widget.png?style=banner2)
 </p>
 <p align="center">
   AIO Download and features
