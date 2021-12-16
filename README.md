@@ -74,6 +74,8 @@ This is where most of the gameplay changing mods are, these include:
 * Bypass Out Of Bounds - Swim in the ocean or just leave england without getting teleported back
 * 0-60 Timing - Time your 0-60's and log them to a file
 * FoV Changing - Get insane Fields of view
+* Discover All Roads - Discovers all roads for you
+* Skip Intro - Make the intro just black with no audio
 
 ## ToDo
 
