@@ -75,6 +75,7 @@ This is where most of the gameplay changing mods are, these include:
 * 0-60 Timing - Time your 0-60's and log them to a file
 * FoV Changing - Get insane Fields of view
 * Discover All Roads - Discovers all roads for you
+* Stop Water Drag - Drive through water without slowing down
 * Skip Intro - Make the intro just black with no audio
 
 ## ToDo
