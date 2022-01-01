@@ -48,6 +48,7 @@ No longer will you have to worry about finding id's and swapping them, or even g
 
 This tool also allows you to tweak in game stats, such as hidden settings, controller preferences, and values for your stat page.   
 It isn't perfect however so you can't currently expect all of the stats show to either 1. Be the right value, or 2. Stick once you change it.
+You can give yourself max CR and add skill points with stats, to find out how, join the discord server, and check pins in the forza chat.
 
 ### SaveSwapping
 
