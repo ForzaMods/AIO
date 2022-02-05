@@ -79,6 +79,7 @@ This is where most of the gameplay changing mods are, these include:
 * Stop Water Drag - Drive through water without slowing down
 * Skip Intro - Make the intro just black with no audio
 * Freeze AI - Freezes offline drivatars
+* Clothes Unlocker - Lets you equip any locked clothing item
 
 ## ToDo
 
