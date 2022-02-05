@@ -1,0 +1,46 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Make sure you fill in every section correctly and with as much detail as possible.
+  - type: input
+    id: AIO-Ver
+    attributes:
+      label: What version of the aio were you running?
+      placeholder: 0.xx
+    validations:
+      required: true
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      description: What game are you running
+      options:
+        - FH4
+        - FH5
+    validations:
+      required: true
+  - type: dropdown
+    id: game-version
+    attributes:
+      label: Game Version
+      description: What version of the game are you running?
+      options:
+        - Microsoft store
+        - Steam
+        - Cracked (online-fix)
+        - Cracked (empress)
+        - Cracked (other) Please put the crack name/version into the issue box below
+    validations:
+      required: true
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: What is the bug?
+      description: What did you expect to happen and what actually happened? (include images/video where applicable)
+    validations:
+      required: true

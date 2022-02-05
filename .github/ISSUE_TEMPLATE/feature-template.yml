@@ -1,0 +1,27 @@
+name: Feature Request
+description: Request a new feature for the AIO
+title: "[Feature-Request]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Make sure you fill in every section correctly and with as much detail as possible.
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      description: What game do you want the feature on?
+      options:
+        - FH4
+        - FH5
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: Feature-description
+    attributes:
+      label: What feature are you requesting?
+      description: How would you like it to work and what would you want it to do?
+    validations:
+      required: true
