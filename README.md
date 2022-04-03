@@ -80,6 +80,7 @@ This is where most of the gameplay changing mods are, these include:
 * Skip Intro - Make the intro just black with no audio
 * Freeze AI - Freezes offline drivatars
 * Clothes Unlocker - Lets you equip any locked clothing item
+* Horn Changer - Lets you use any horn in game, client side only
 
 ## ToDo
 
