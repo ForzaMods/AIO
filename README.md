@@ -24,7 +24,7 @@
 
 The Forza Mods Tool is packed full of features:
 
-(For Steam, only garage/autoshow and stat editor tab will work)
+(For Steam FH4, only garage/autoshow and stat editor tab will work)
 
 ### Autoshow
 
@@ -80,7 +80,10 @@ This is where most of the gameplay changing mods are, these include:
 * Skip Intro - Make the intro just black with no audio
 * Freeze AI - Freezes offline drivatars
 * Clothes Unlocker - Lets you equip any locked clothing item
+* Emote Unlocker - Lets you equip any locked emote
 * Horn Changer - Lets you use any horn in game, client side only
+* Fly Hack - Literally fly
+* AIO Map - TP anywhere with a map in the tool, includes overlays for e.g. fast travel boards
 
 ## ToDo
 
