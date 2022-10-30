@@ -11,15 +11,13 @@
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 * [Current/Planned feature list](https://trello.com/b/jXY01dbN/forza-mods-aio)
 * [Downloads](https://github.com/Yeethan69/AIO/releases/)
 * [Discord](https://discord.gg/2szBrzRTH9)
 * [UnknownCheats Post](https://www.unknowncheats.me/forum/other-games/415227-fh4-speed-hack.html)
 * [Draffs YouTube](https://www.youtube.com/c/comamnds)
-* [Donate to Weebthan with card](https://www.buymeacoffee.com/Yeethan69)
-* [Donate to Weebthan with PayPal](https://www.paypal.com/donate?hosted_button_id=DACQKRJ4HTZRN)
-* [Donate to Draff with card](https://www.buymeacoffee.com/comamnds)
-* [Donate to Draff with PayPal](https://www.paypal.com/donate?hosted_button_id=H37GURADQ2SXU)
+* Donate to Weebthan with [card](https://www.buymeacoffee.com/Yeethan69) or [PayPal](https://www.paypal.com/donate?hosted_button_id=DACQKRJ4HTZRN)
+* Donate to Draff with [card](https://www.buymeacoffee.com/comamnds) or [PayPal](https://www.paypal.com/donate?hosted_button_id=H37GURADQ2SXU)
 * [Screenshots](https://imgur.com/a/4dynVdb)
