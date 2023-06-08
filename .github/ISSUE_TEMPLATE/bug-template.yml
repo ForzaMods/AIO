@@ -37,6 +37,16 @@ body:
         - Cracked (other) Please put the crack name/version into the issue box below
     validations:
       required: true
+  - type: dropdown
+    id: have-i-checked
+    attributes:
+      label: Have i checked if the bug was reported?
+      description: Did you check in closed issues, if the bug is a known one or no?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
   - type: textarea
     id: issue-description
     attributes:
