@@ -6,18 +6,17 @@
 </p>
 
 [Forza Mods AIO](https://github.com/Yeethan69/AIO/releases/) is a free Forza Horizon 4, and now Forza Horzion 5 mod tool that aims to bring cool, new and unique features, all at NO cost!
+<br><br><br>
+<img align="right" src="https://i.imgur.com/aySeiqy.png" width="65%" style="border-radius: 15px;">
 
-<img align="right" src="https://i.imgur.com/NgbwjVb.png" height="4%">
+### Donate to the creators
+* Donate to Merik with [card](https://www.buymeacoffee.com/merika)
+* Donate to Ethan with [card](https://www.buymeacoffee.com/Yeethan69) or [PayPal](https://www.paypal.com/donate?hosted_button_id=DACQKRJ4HTZRN)
 
-
-
-<br><br><br><br><br><br><br><br>
-
-* [Current/Planned feature list](https://trello.com/b/jXY01dbN/forza-mods-aio)
-* [Downloads](https://github.com/Yeethan69/AIO/releases/)
+### Other information
 * [Discord](https://discord.gg/2szBrzRTH9)
+* [Screenshots](https://imgur.com/a/rSMKS7r)
+* [Downloads](https://github.com/Yeethan69/AIO/releases/)
+* [Source Code Respository](https://github.com/ForzaMods/Forza-Mods-AIO)
+* [Current/Planned feature list](https://trello.com/b/jXY01dbN/forza-mods-aio)
 * [UnknownCheats Post](https://www.unknowncheats.me/forum/other-games/415227-fh4-speed-hack.html)
-* [Draffs YouTube](https://www.youtube.com/c/comamnds)
-* Donate to Weebthan with [card](https://www.buymeacoffee.com/Yeethan69) or [PayPal](https://www.paypal.com/donate?hosted_button_id=DACQKRJ4HTZRN)
-* Donate to Draff with [card](https://www.buymeacoffee.com/comamnds) or [PayPal](https://www.paypal.com/donate?hosted_button_id=H37GURADQ2SXU)
-* [Screenshots](https://imgur.com/a/4dynVdb)
