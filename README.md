@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS NOW ARCHIVED. WE ARE SWITCHING TO THE SOURCE ONE
+
+**Source code repository link:** https://github.com/ForzaMods/Forza-Mods-AIO
+
 <p align="center">
   <img width="200" height="200" src="https://cdn.discordapp.com/attachments/788949255749500958/896513980368035870/pogness.png">
 </p>
